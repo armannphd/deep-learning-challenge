@@ -17,6 +17,8 @@ Inthis
 
 
 * The variables that were removed during the preprocessing of the data were 'EIN' and 'NAME'
+* ![Screenshot 2023-05-20 at 8 24 35 PM](https://github.com/armannphd/deep-learning-challenge/assets/115322974/53573d77-16ac-458f-96d2-e2c805cf2a4c)
+
 
 * The final model consists of 7,381 parameters with five hidden layers, all with relu activation except for the output which was sigma.  Number of neurons for each layer is as follows:
       Layer 1 = 80
