@@ -26,7 +26,12 @@ Inthis
       Layer 3 = 20
       Layer 4 = 10
       Layer 5 = 10
+      
+ ![Screenshot 2023-05-20 at 8 25 36 PM](https://github.com/armannphd/deep-learning-challenge/assets/115322974/c50cf0da-06a7-44c7-a480-803821c22604)
+
  * Multiple iterations were attempted for optimzation, the highest accuracy score attained was 0.73
+
+
 
 
 ## Summary
