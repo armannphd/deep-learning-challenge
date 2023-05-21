@@ -29,7 +29,8 @@ In this analysis, a neural network model was compiled, trained, and evaluated ba
       Layer 4 = 10
       Layer 5 = 10
       
- ![Screenshot 2023-05-20 at 8 25 36 PM](https://github.com/armannphd/deep-learning-challenge/assets/115322974/c50cf0da-06a7-44c7-a480-803821c22604)
+![Screenshot 2023-05-20 at 8 25 36 PM](https://github.com/armannphd/deep-learning-challenge/assets/115322974/e5614aff-ebc0-470b-b062-8e567413215c)
+
 
  * Multiple iterations were attempted for optimzation, the highest accuracy score attained was 0.73
 
