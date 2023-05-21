@@ -6,7 +6,8 @@ In this analysis, a neural network model was compiled, trained, and evaluated ba
 ## Results
 
 * The target variable for this model was 'IS_SUCCESSFUL', a bianary variable dictating whether the applicant was successful or not in their venture.
-![Screenshot 2023-05-20 at 8 22 27 PM](https://github.com/armannphd/deep-learning-challenge/assets/115322974/e6934eba-3a2d-4dd6-862e-992cbb2e1ecc)
+![Screenshot 2023-05-20 at 8 22 27 PM](https://github.com/armannphd/deep-learning-challenge/assets/115322974/8f99c69b-f68c-4764-bca7-65f34bba0fa9)
+
 
 
 
