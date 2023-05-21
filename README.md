@@ -49,5 +49,5 @@ Experimenting by removing columns, adding additional epochs from 100, or changin
 * Fourth attempt, 'AlphabetSoupCharity_attempt_3.ipynb' increased the number of neurons for a total of 18501 parameters
 * Fifth attempt, 'AlphabetSoupCharity_attempt_4.ipynb' is based on 'AlphabetSoupCharity_attempt_3.ipynb' but deleted select columns
       
-For increasing accuracy, other models such as decision-tree algorithms like Random Forest may be experimented with to see if accuracy increases.  Ultimately, more data used in training would produce an optimal model for 
+For increasing accuracy, other models such as decision-tree algorithms like Random Forest may be experimented with to see if accuracy increases.  Ultimately, more data used in training would produce an optimal model for predicitng the likelihood of success for charitable ventures.
 
