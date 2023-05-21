@@ -39,11 +39,12 @@ In this analysis, a neural network model was compiled, trained, and evaluated ba
 The final neural network model used 5 hidden layers, used relu activation, adam as its model optimizer, and had a total of 7,381 parameters (named 'AlphabetSoupCharity_Optimization_attempt1.ipynb').
 
 Experimenting by removing columns, adding additional epochs from 100, or changing the model optimizer did not yield a dramatic difference from the accuracy score reported here of 0.73.
-      * First attempt, 'AlphabetSoupCharity.ipynb', had 921 params, an 2 hidden layers
-      * Second attempt, 'AlphabetSoupCharity_attempt_1.ipynb', had 7381 params, and 5 hidden layers
-      * Third attempt, 'AlphabetSoupCharity_attempt_2.ipynb' changed its model optimizer from adam to adadelta
-      * Fourth attempt, 'AlphabetSoupCharity_attempt_3.ipynb' increased the number of neurons for a total of 18501 parameters
-      * Fifth attempt, 'AlphabetSoupCharity_attempt_4.ipynb' is based on 'AlphabetSoupCharity_attempt_3.ipynb' but deleted select columns
+
+* First attempt, 'AlphabetSoupCharity.ipynb', had 921 params, an 2 hidden layers
+* Second attempt, 'AlphabetSoupCharity_attempt_1.ipynb', had 7381 params, and 5 hidden layers
+* Third attempt, 'AlphabetSoupCharity_attempt_2.ipynb' changed its model optimizer from adam to adadelta
+* Fourth attempt, 'AlphabetSoupCharity_attempt_3.ipynb' increased the number of neurons for a total of 18501 parameters
+* Fifth attempt, 'AlphabetSoupCharity_attempt_4.ipynb' is based on 'AlphabetSoupCharity_attempt_3.ipynb' but deleted select columns
       
 For increasing accuracy, other models such as decision-tree algorithms like Random Forest may be experimented with to see if accuracy increases.  Ultimately, more data used in training would produce an optimal model for 
 
