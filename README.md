@@ -5,7 +5,17 @@ Inthis
 ## Results
 
 * The target variable for this model was 'IS_SUCCESSFUL', a bianary variable dictating whether the applicant was successful or not in their venture.
+![Screenshot 2023-05-20 at 8 22 27 PM](https://github.com/armannphd/deep-learning-challenge/assets/115322974/e6934eba-3a2d-4dd6-862e-992cbb2e1ecc)
+
+
+
 * The features for the model are as follows: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
+
+
+
+
+
+
 * The variables that were removed during the preprocessing of the data were 'EIN' and 'NAME'
 
 * The final model consists of 7,381 parameters with five hidden layers, all with relu activation except for the output which was sigma.  Number of neurons for each layer is as follows:
