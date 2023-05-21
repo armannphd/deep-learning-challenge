@@ -1,7 +1,8 @@
 # deep-learning-challenge
 
 ## Analysis Overview
-Inthis 
+In this analysis, a neural network model was compiled, trained, and evaluated based off of data from charitable ventures.  The purpose of this analysis is to construct a model that may predict the likelihood that a venture will be successful, thus, such a model would benefeit the backer of such ventures in order to foresee if the investment into the venture is worthwhile.  Pertinent data were binned or encoded in order to compile, train, and eventually evaluate the efficacy of the model.
+
 ## Results
 
 * The target variable for this model was 'IS_SUCCESSFUL', a bianary variable dictating whether the applicant was successful or not in their venture.
@@ -10,7 +11,6 @@ Inthis
 
 
 * The features for the model are as follows: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
-
 
 
 
